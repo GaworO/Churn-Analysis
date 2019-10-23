@@ -1,0 +1,13 @@
+artifact_path: ANN-Bank
+flavors:
+  python_function:
+    data: model.pkl
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    python_version: 3.6.9
+  sklearn:
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 0.21.3
+run_id: f37e34f41b7a4ae28762643227e9dec4
+utc_time_created: '2019-10-23 20:16:24.787777'
