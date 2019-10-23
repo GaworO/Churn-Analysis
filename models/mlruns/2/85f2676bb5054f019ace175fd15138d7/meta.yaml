@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Documents/Projekty/Churn/models/mlruns/2/85f2676bb5054f019ace175fd15138d7/artifacts
+end_time: 1571855701815
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: 85f2676bb5054f019ace175fd15138d7
+run_uuid: 85f2676bb5054f019ace175fd15138d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1571855659874
+status: 4
+tags: []
+user_id: user

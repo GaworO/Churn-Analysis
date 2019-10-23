@@ -1,0 +1,4 @@
+artifact_location: file:///Users/user/Documents/Projekty/Churn/models/mlruns/3
+experiment_id: '3'
+lifecycle_stage: active
+name: ANN-banl
